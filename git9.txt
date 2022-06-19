@@ -1,0 +1,8 @@
+Typesetters have traditionally used an em as the standard
+size for a paragraph indent. What’s an em? Back in the days
+of hot metal typesetting, an em was literally the width of 
+the letter “m” in a given typeface and type size. With 
+digital type, there’s no need to measure the letter “m.” 
+Simply use a measurement equivalent to the point size of 
+your type. If the text is set in 12-point type, use a 12 
+point indent. A point is 1/72nd of an inch so with
